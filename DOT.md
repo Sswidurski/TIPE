@@ -40,7 +40,7 @@ Idées sur le puissance 4 (mais déjà résolu) et sur les jeux de grilles exemp
 - Jeudi 9 mars 2023 : quatrième séance de TIPE. Jour J : choix des sujets à approfondir avec l'aide des professeurs,
 Mr Mattot, Mr Jourdan, Mr Bourse. Mais étant avant dernier dans l'alphabet, je n'ai pas eu le temps de présenter mes magnifiques projets :,(
 En attendant : approfondissement du curling pour savoir dans qu'elle spécificité du mouvement partir (Drag Effect ; Rotation ; Balayage).
-- Jeudi 16 mars 2023 : Lecture du site https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761524/ sur le balayage au curling. 
+- Jeudi 16 mars 2023 : Lecture du site https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761524/ sur le balayage au curling (technique de jeux). 
 - Jeudi 23 mars 2023 : A venir.
 -
 -
