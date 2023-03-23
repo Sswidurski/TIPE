@@ -43,8 +43,8 @@ En attendant : approfondissement du curling pour savoir dans qu'elle spécificit
 - Jeudi 16 mars 2023 : Lecture des sites ; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761524/ sur le balayage au curling (technique de jeux).
 https://www.sciencedirect.com/science/article/abs/pii/S0043164813000732 sur le balayage au curling (fonctionnement des mouvements de friction).
 Recherche de pistes de curling à proximité : Gentsesteenweg 131, 8500 Kortrijk, Belgium (25 min 1 patinoire) ; Rte du Quai Freycinet 3 Môle 1, 59140 Dunkerque (1h 10min et 4 pistes). 
-- Jeudi 23 mars 2023 : A venir.
--
+- Jeudi 23 mars 2023 : cinquième séance de TIPE. Recherche de questions problématisées et envoie de mail pour contacter les pistes de curling.
+- Jeudi 30 mars 2023 : A venir.
 -
 -
 -
