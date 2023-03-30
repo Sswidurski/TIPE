@@ -44,7 +44,7 @@ En attendant : approfondissement du curling pour savoir dans qu'elle spécificit
 https://www.sciencedirect.com/science/article/abs/pii/S0043164813000732 sur le balayage au curling (fonctionnement des mouvements de friction).
 Recherche de pistes de curling à proximité : Gentsesteenweg 131, 8500 Kortrijk, Belgium (25 min 1 patinoire) ; Rte du Quai Freycinet 3 Môle 1, 59140 Dunkerque (1h 10min et 4 pistes). 
 - Jeudi 23 mars 2023 : cinquième séance de TIPE. Recherche de questions problématisées et recherche des règles du curling.
-- Jeudi 30 mars 2023 : sixième séance de TIPE. Recherche de problématique. Premiers contacts avec des pistes de curling : Courtrai, Dunkerque.
+- Jeudi 30 mars 2023 : sixième séance de TIPE. Recherche de problématique : "Quel est l'impact du balayage dans le curling?". Premiers contacts avec des pistes de curling : Courtrai, Dunkerque.
 - Jeudi 06 avril 2023 : A venir.
 -
 -
