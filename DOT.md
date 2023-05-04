@@ -46,7 +46,8 @@ Recherche de pistes de curling à proximité : Gentsesteenweg 131, 8500 Kortrijk
 - Jeudi 23 mars 2023 : cinquième séance de TIPE. Recherche de questions problématisées et recherche des règles du curling.
 - Jeudi 30 mars 2023 : sixième séance de TIPE. Recherche de problématique : "Quel est l'impact du balayage dans le curling?". Premiers contacts avec des pistes de curling : Courtrai, Dunkerque.
 - Jeudi 06 avril 2023 : ...
-- Jeudi 05 mai 2023 : ...
+- Jeudi 05 mai 2023 : sites : https://web.archive.org/web/20170820010904/http://www.businessinsider.com/why-curlers-sweep-the-ice-2014-2
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761524/ et wikipédia partie sweeping : https://en.wikipedia.org/wiki/Curling#Sweeping
 - Jeudi 26 mai 2023 : A venir.
 -
 -
