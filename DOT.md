@@ -48,7 +48,7 @@ Recherche de pistes de curling à proximité : Gentsesteenweg 131, 8500 Kortrijk
 - Jeudi 06 avril 2023 : ...
 - Jeudi 05 mai 2023 : sites : https://web.archive.org/web/20170820010904/http://www.businessinsider.com/why-curlers-sweep-the-ice-2014-2
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761524/ et wikipédia partie sweeping : https://en.wikipedia.org/wiki/Curling#Sweeping
-- Jeudi 26 mai 2023 : A venir.
+- Jeudi 25 mai 2023 : https://www.researchgate.net/publication/237202460_The_motion_of_curling_rocks_Experimental_investigation_and_semi-phenomenological_description : résumé du texte, étude des trajectoires de la pierre en prennant l'hypothèse de fusion de la glace.
 -
 -
 -
