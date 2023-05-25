@@ -1,5 +1,5 @@
 # Titre
-
+Les frottements du balai au curling.
 ## Motivations pour le choix du sujet
 
 
@@ -33,7 +33,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Problématique retenue (max 50 mots)
-
+Quel est l'impact des frottements du balai au curling ?
 
 ## Objectifs du TIPE (max 100 mots)
 
@@ -44,12 +44,12 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 ## Références bibliographiques (2 à 10 références)
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. https://fr.wikipedia.org/wiki/Physique_du_curling : pour les chiffres et données globales sur le curling.
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761524/ : sur le blayage de la glace au glace (en anglais), il parle techniques de jeux a adopter.
+3. https://www.sciencedirect.com/science/article/abs/pii/S0043164813000732 : sur le balayage de la glace (en anglais), il parle des fonctionnements des mouvements de frictions entre le balai et la glace. Deux théories : la glace fond due aux frottements ou la glace a une température plus élévée ce qui change le mouvement futur de la pierre.
+4. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761524/ : données théoriques sur la température de la glace, et l'impact du balayage.
+5. https://en.wikipedia.org/wiki/Curling#Sweeping : données autres que sur le balayage, sur les techniques de jeux diverses.
+6. https://www.researchgate.net/publication/237202460_The_motion_of_curling_rocks_Experimental_investigation_and_semi-phenomenological_description : équations du mouvement et courbes expérimentales mathématique (très complet).
 7. 
 8. 
 9. 
