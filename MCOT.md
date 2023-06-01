@@ -37,8 +37,8 @@ Quel est l'impact des frottements du balai au curling ?
 
 ## Objectifs du TIPE (max 100 mots)
 
-1.
-2.
+1.Expérience à la maison, pour calculer le coéfficient de frottement de la glace.
+2.Effectuer une modélisation des mouvements.
 3.
 
 
