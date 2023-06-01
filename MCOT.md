@@ -8,9 +8,9 @@ Les frottements du balai au curling.
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1.
-2.
-3.
+1.Informatique pratique
+2.Analyse
+3.Mécanique
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
 - Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
