@@ -53,5 +53,5 @@ Quel est l'impact des frottements du balai au curling ?
 7. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9440934/ : étude physique du mouvement de la pierre.
 8. https://www.mdpi.com/2079-9292/9/3/457 : étude et prédiction du mouvement de la pierre avec balayages.
 9. https://www.semanticscholar.org/paper/Frictional-heat-generated-by-sweeping-in-curling-on-Marmo-Farrow/306977f0bc07e15f7847dfc5268657fc061118f5 : accès réservé (température de la glace et impact de la brosse).
-10. 
+10. https://newsroom.unsw.edu.au/news/science-tech/slippery-science-olympic-curling-we-still-don%E2%80%99t-know-how-it-works : article récent (2020).
 
