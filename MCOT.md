@@ -47,7 +47,7 @@ Objectifs actuels :
 
 Elles ne seront pas toutes gardées :
 1. https://fr.wikipedia.org/wiki/Physique_du_curling : pour les chiffres et données globales sur le curling.
-2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761524/ : sur le blayage de la glace au glace (en anglais), il parle techniques de jeux a adopter.
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761524/ : sur le blayage de la glace au curling (en anglais), il parle des techniques de jeux a adopter.
 3. https://www.sciencedirect.com/science/article/abs/pii/S0043164813000732 : sur le balayage de la glace (en anglais), il parle des fonctionnements des mouvements de frictions entre le balai et la glace. Deux théories : la glace fond due aux frottements ou la glace a une température plus élévée ce qui change le mouvement futur de la pierre.
 4. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761524/ : données théoriques sur la température de la glace, et l'impact du balayage.
 5. https://en.wikipedia.org/wiki/Curling#Sweeping : données autres que sur le balayage, sur les techniques de jeux diverses.
