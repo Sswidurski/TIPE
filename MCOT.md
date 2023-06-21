@@ -4,13 +4,13 @@ Les frottements du balai au curling.
 
 
 ## Ancrage du sujet au thème de l'année
-Le Curling correspond bien au thème : "Jeux, sports" puisque, 
+Le Curling correspond bien au thème "Jeux, sports" ,puisque
 le curling est à la fois un sport et un jeux de pierres sur de la glace.
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1.Informatique pratique (Informatique).
-2.Analyse (Maths).
-3.Mécanique (Physique).
+1.Etude du mouvement (mécanique du solide) et impact des frottements sur la glace (thermodynamique).
+2.Analyse (Maths) : résolution d'équations différentielles.
+3.Informatique pratique (Informatique) : résolution d'équations différentielles / modélisation du mouvement.
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
 - Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
@@ -21,7 +21,7 @@ le curling est à la fois un sport et un jeux de pierres sur de la glace.
 
 Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus significatifs de son travail**. Ils doivent être en **cohérence** avec la bibliographie, la problématique et les objectifs choisis par le candidat. Les mots-clés doivent être renseignés dans un ordre décroissant d'importance et permettre de bien cerner le périmètre des recherches.
 
-1.
+1. 
 2.
 3.
 4.
@@ -37,6 +37,7 @@ Quel est l'impact des frottements du balai au curling ?
 
 ## Objectifs du TIPE (max 100 mots)
 
+Objectifs actuels :
 1.Expérience à la maison, pour calculer le coéfficient de frottement de la glace.
 2.Effectuer une modélisation des mouvements.
 3.Contacter une piste de curling.
@@ -44,6 +45,7 @@ Quel est l'impact des frottements du balai au curling ?
 
 ## Références bibliographiques (2 à 10 références)
 
+Elles ne seront pas toutes gardées :
 1. https://fr.wikipedia.org/wiki/Physique_du_curling : pour les chiffres et données globales sur le curling.
 2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761524/ : sur le blayage de la glace au glace (en anglais), il parle techniques de jeux a adopter.
 3. https://www.sciencedirect.com/science/article/abs/pii/S0043164813000732 : sur le balayage de la glace (en anglais), il parle des fonctionnements des mouvements de frictions entre le balai et la glace. Deux théories : la glace fond due aux frottements ou la glace a une température plus élévée ce qui change le mouvement futur de la pierre.
