@@ -1,16 +1,17 @@
 # Titre
-Les frottements du balai au curling.
+Mesures expérimentales au Curling
 ## Motivations pour le choix du sujet
 
 
 ## Ancrage du sujet au thème de l'année
-Le Curling correspond bien au thème "Jeux, sports" ,puisque
-le curling est à la fois un sport et un jeux de pierres sur de la glace.
+Le Curling correspond bien au thème "Jeux, sports", puisque
+le curling est à la fois un sport et un jeu de pierres sur de la glace.
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1.Etude du mouvement (mécanique du solide) et impact des frottements sur la glace (thermodynamique).
-2.Analyse (Maths) : résolution d'équations différentielles.
-3.Informatique pratique (Informatique) : résolution d'équations différentielles / modélisation du mouvement.
+1.Etude du mouvement : (mécanique du solide) et impact des frottements sur la glace : (thermodynamique).
+3.Informatique pratique : modélisation du mouvement théoriquement et expérimentalement.
+2.Analyse (Maths) :
+
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
 - Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
@@ -21,11 +22,11 @@ le curling est à la fois un sport et un jeux de pierres sur de la glace.
 
 Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus significatifs de son travail**. Ils doivent être en **cohérence** avec la bibliographie, la problématique et les objectifs choisis par le candidat. Les mots-clés doivent être renseignés dans un ordre décroissant d'importance et permettre de bien cerner le périmètre des recherches.
 
-1. Balayage
-2. Prédiction de trajectoire
-3.
-4.
-5.
+1. Trajectoire
+2. Experimentations
+3. 
+4. 
+5. 
 
 
 ## Bibliographie commentée (max 650 mots)
@@ -38,9 +39,8 @@ Quel est l'impact des frottements du balai au curling ?
 ## Objectifs du TIPE (max 100 mots)
 
 Objectifs actuels :
-1.Expérience à la maison, pour calculer le coéfficient de frottement de la glace.
-2.Effectuer une modélisation des mouvements.
-3.Contacter une piste de curling.
+1.Contacter une piste de curling afin d'y faire des expérimentations (et rencontre avec des proffessionnels du curling).
+2.Effectuer une modélisation des mouvements expérimentales/physiques.
 
 
 ## Références bibliographiques (2 à 10 références)
