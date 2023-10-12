@@ -1,16 +1,18 @@
 # Titre
-Mesures expérimentales au Curling
+Déviation de la pierre de Curling
 ## Motivations pour le choix du sujet
-
+J'ai découvert le curling aux jeux olympiques et j'ai était pasionné par 
+les mouvements de celle-ci qui varient fortements.
 
 ## Ancrage du sujet au thème de l'année
-Le Curling correspond bien au thème "Jeux, sports", puisque
-le curling est à la fois un sport et un jeu de pierres sur de la glace.
+Le Curling correspond bien au thème "Jeux, sports", puisqu'il est
+un sport où le but est de lancer une pierre vers une cible appelée 'maison'.
+
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1.Etude du mouvement : (mécanique du solide) et impact des frottements sur la glace : (thermodynamique).
-3.Informatique pratique : modélisation du mouvement théoriquement et expérimentalement.
-2.Analyse (Maths) :
+1.Etude du mouvement : (mécanique du solide) et impact des frottements sur les aspérités de la pierre.
+3.Informatique pratique : modélisation du mouvement de manière théorique et expérimentale.
+2.Analyse (Maths) : résolutions d'équations reliant les paramètres de lancé à la force
 
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
@@ -22,11 +24,11 @@ le curling est à la fois un sport et un jeu de pierres sur de la glace.
 
 Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus significatifs de son travail**. Ils doivent être en **cohérence** avec la bibliographie, la problématique et les objectifs choisis par le candidat. Les mots-clés doivent être renseignés dans un ordre décroissant d'importance et permettre de bien cerner le périmètre des recherches.
 
-1. Trajectoire
-2. Experimentations
-3. 
-4. 
-5. 
+1. aspérités
+2. déviation
+3. curl
+4. expérimentations
+5. trajectoire
 
 
 ## Bibliographie commentée (max 650 mots)
