@@ -1,11 +1,11 @@
 # Titre
 Déviation de la pierre de Curling
 ## Motivations pour le choix du sujet
-J'ai découvert le curling aux jeux olympiques d'hiver de  et j'ai était pasionné par 
-les mouvements de celle-ci qui varient fortements.
+J'ai découvert le curling aux jeux olympiques d'hiver de 2018 et
+j'ai était pasionné par les mouvements de la pierre qui dévie sur la glace.
 
 ## Ancrage du sujet au thème de l'année
-Le Curling correspond bien au thème "Jeux, sports", puisqu'il est
+Le Curling correspond bien au thème "Jeux, sports", puisque c'est
 un sport où le but est de lancer une pierre vers une cible appelée 'maison'.
 
 ## Positionnement thématique (par ordre de priorité décroissante)
@@ -24,11 +24,11 @@ un sport où le but est de lancer une pierre vers une cible appelée 'maison'.
 
 Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus significatifs de son travail**. Ils doivent être en **cohérence** avec la bibliographie, la problématique et les objectifs choisis par le candidat. Les mots-clés doivent être renseignés dans un ordre décroissant d'importance et permettre de bien cerner le périmètre des recherches.
 
-1. aspérités
-2. déviation
-3. curl
-4. expérimentations
-5. trajectoire
+1. pebble
+2. curl
+3. aspérité
+4. déviation
+5. vitesse de rotation
 
 
 ## Bibliographie commentée (max 650 mots)
@@ -41,8 +41,9 @@ Quel est l'impact des frottements du balai au curling ?
 ## Objectifs du TIPE (max 100 mots)
 
 Objectifs actuels :
-1.Contacter une piste de curling afin d'y faire des expérimentations (et rencontre avec des proffessionnels du curling).
-2.Effectuer une modélisation des mouvements expérimentales/physiques.
+1. Expériences :
+2. Théorie :
+3. Mise en commun et conclusion :
 
 
 ## Références bibliographiques (2 à 10 références)
