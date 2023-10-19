@@ -1,7 +1,7 @@
 # Titre
 Déviation de la pierre de Curling
 ## Motivations pour le choix du sujet
-J'ai découvert le curling aux jeux olympiques et j'ai était pasionné par 
+J'ai découvert le curling aux jeux olympiques d'hiver de  et j'ai était pasionné par 
 les mouvements de celle-ci qui varient fortements.
 
 ## Ancrage du sujet au thème de l'année
