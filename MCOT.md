@@ -10,9 +10,9 @@ Le Curling correspond bien au thème "Jeux, sports", puisque c'est
 un sport où le but est de lancer une pierre vers une cible appelée 'maison'.
 
 ## Positionnement thématique (par ordre de priorité décroissante)
-Pysique : Mécanique du solide
-Informatique : Informatique pratique
-Mathématiques : Analyse
+- Pysique : Mécanique du solide
+- Informatique : Informatique pratique
+- Mathématiques : Analyse
 
 ## Mots-clés (par ordre de priorité décroissante)
 1. Pebble
