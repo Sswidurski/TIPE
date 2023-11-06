@@ -26,10 +26,15 @@ La première référence est la publication d'une étude de Gaëtan Mancini qui 
 tente d'expliquer expérimentalement pourquoi une pierre de curling avec une vitesse de rotation initiale non nulle dans le sens horaire, 
 déviera vers la droite alors que dans d'autres sports tels que le billard, les billes avec une vitesse de rotation initiale non nulle dans le sens horaire, 
 dévient vers la gauche.
-La deuxième référence met théoriquement en équation les mouvements des pierres de curling puis tente de les confirmer expérimentalement.
-La troisième référence est un article de 2020 qui fait l'hypothèse que la déviation d'une pierre de curling pourrait être due aux forces de pression
+La deuxième référence met théoriquement en équation les mouvements des pierres de curling puis tente de confirmer expérimentalement les résultats.
+La troisième référence est un article de 2020 qui fait l'hypothèse que la déviation d'une pierre de curling pourrait être due aux forces de pression 
 exercées sur les aspérités de la pierre qui rencontrent les goutelettes d'eau glacées présentent sur le pebble.
-La quatrième référence est ...
+La quatrième référence est un autre article qui met théoriquement en équation les mouvements des pierres de curling puis tente de confirmer expérimentalement les résultats.
+La cinquième référence explique dans un premier temps pourquoi chaque théorie sur la déviation de la pierre jusqu'à présent existante est invalide. En effet, elles ne correspondent pas 
+aux mesures expérimentales qui peuvent être effectuées. Ensuite il explique la théorie de Nyberg et al qui est en accord avec l'hypothèse du document 3. Cette théorie explique parfaitement 
+pour quelles raisons la pierre de curling avec une rotation initiale va dévier de sa trajectoire sur le pebble mais pas sur la glace lisse ni avec une pierre qui est polie. En réalité, 
+ce sont les petites goutellettes d'eau glacé présentent sur le pebble qui exercent sur les aspérités de la pierre des forces de pression de petite norme mais qui sont nombreuses et qui ont 
+alors un impact sur la pierre puisqu'elle devie.
 
 ## Problématique retenue (max 50 mots)
 On souhaite trouver les raisons pour lesquelles la pierre de curling dévie
@@ -39,7 +44,7 @@ de sa trajectoire lors d'un lancé avec une vitesse de rotation initiale non nul
 Les objectifs de ce TIPE sont :
 - Affirmer ou infirmer les théories qui pourraient expliquer la déviation de la pierre 
 sur la glace (curl) lors d'un lancé avec une vitesse de rotation initiale.
-- Confirmer expérimentalement la théorie choisit sur une piste.
+- Confirmer expérimentalement la théorie choisit sur une piste de curling.
 - Modéliser informatiquement les résultats expérimentaux et les résultats attendues
 par la théorie et les comparer.
 
