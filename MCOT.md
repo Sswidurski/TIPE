@@ -37,12 +37,6 @@ aspérités microscopiques. Ces forces de pression ont de faibles normes mais é
 alors à montrer que c'est spécifiquement dans ces conditions d'expérience (pierre non polie et surface de pebble) que la pierre est déviée pour confirmer la théorie de Nyberg et al.
 On cherchera également à faire correspondre les données théoriques et expérimentales de l'étude du mouvement.
 
-La cinquième référence explique dans un premier temps pourquoi chaque théorie sur la déviation de la pierre jusqu'à présent existante est invalide. En effet, elles ne correspondent pas 
-aux mesures expérimentales qui peuvent être effectuées. Ensuite il explique la théorie de Nyberg et al qui est en accord avec l'hypothèse du document 3. Cette théorie explique parfaitement 
-pour quelles raisons la pierre de curling avec une rotation initiale va dévier de sa trajectoire sur le pebble mais pas sur la glace lisse ni avec une pierre qui est polie. En réalité, 
-ce sont les petites goutellettes d'eau glacé présentent sur le pebble qui exercent sur les aspérités de la pierre des forces de pression de petite norme mais qui sont nombreuses et qui ont 
-alors un impact sur la pierre puisqu'elle devie. 
-
 ## Problématique retenue (max 50 mots)
 On souhaite trouver les raisons pour lesquelles la pierre de curling dévie
 de sa trajectoire lors d'un lancé avec une vitesse de rotation initiale non nulle?
