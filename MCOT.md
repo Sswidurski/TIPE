@@ -22,19 +22,26 @@ un sport où le but est de lancer une pierre vers une cible appelée 'maison'.
 5. Vitesse de rotation
 
 ## Bibliographie commentée (max 650 mots)
-La première référence est la publication d'une étude de Gaëtan Mancini qui détaille les aspects du curling puis 
-tente d'expliquer expérimentalement pourquoi une pierre de curling avec une vitesse de rotation initiale non nulle dans le sens horaire, 
-déviera vers la droite alors que dans d'autres sports tels que le billard, les billes avec une vitesse de rotation initiale non nulle dans le sens horaire, 
-dévient vers la gauche.
-La deuxième référence met théoriquement en équation les mouvements des pierres de curling puis tente de confirmer expérimentalement les résultats.
-La troisième référence est un article de 2020 qui fait l'hypothèse que la déviation d'une pierre de curling pourrait être due aux forces de pression 
-exercées sur les aspérités de la pierre qui rencontrent les goutelettes d'eau glacées présentent sur le pebble.
-La quatrième référence est un autre article qui met théoriquement en équation les mouvements des pierres de curling puis tente de confirmer expérimentalement les résultats.
+Le curling est un sport très particulier. Il est l'un des rares sports sur la glace où, lorsqu'on lance une pierre avec une vitesse de rotation initiale,
+cette pierre subit une déviation par rapport à l'axe initiale qu'elle suit. Cette courbe s'appelle le curl. Lorsque l'on fait la même expérience avec une bille
+de billard, avec une rotation dans le sens horaire, la bille dévie vers la gauche alors que dans le cas d'une pierre de curling, celle-ci dévierait vers la droite.
+Pour ces raisons, je me suis ici intéressé aux raisons qui font qu'elle dévie de cette trajectoire. Tout d'abord j'ai cherché comment se déroule ce sport, qu'elles sont
+ses aspects physiques et qu'elles particularités ont les éléments à prendre en compte dans l'étude physique (référence 1, 2 et 4). Ensuite, sachant que la glace n'est pas 
+lisse au curling mais arrosée par de l'eau qui forme de petites gouttelettes glacées à sa surface, il faut prendre en compte cette aspect qui fait que la pierre n'a que 1 %
+de surface de contact avec la glace sur la totalité de la surface de l'anneau de contact de la pierre. Cela permet notamment à la pierre de subir nettement moins de frottements
+et d'aller plus vite. De plus, récemment (2017 ; 2018 ; 2022) de nouvelles expériences faites par des scientifiques comme Gaëtan Mancini et Shane Keating montre que la déviation
+subit par la pierre serait aussi due aux gouttelettes sur la surface de la glace (référence 3). Nyberg et al ont proposé un modèle physique du mouvement de la pierre de curling sur 
+cette glace parsemée de gouttelettes appelée pebble (référence 5). Ce modèle montre que dans le cas d'une rotation initiale de la pierre, des forces de pression s'exercent depuis 
+les gouttelettes sur des aspérités présentent sur la pierre. En effet, cette pierre est spécialement faite de granite et est non polie, ce qui fait qu'elle possède de nombreuses 
+aspérités microscopiques. Ces forces de pression ont de faibles normes mais étant très nombreuses elles ont un impact sur la pierre qui est alors déviée. Dans ce TIPE on cherchera
+alors à montrer que c'est spécifiquement dans ces conditions d'expérience (pierre non polie et surface de pebble) que la pierre est déviée pour confirmer la théorie de Nyberg et al.
+On cherchera également à faire correspondre les données théoriques et expérimentales de l'étude du mouvement.
+
 La cinquième référence explique dans un premier temps pourquoi chaque théorie sur la déviation de la pierre jusqu'à présent existante est invalide. En effet, elles ne correspondent pas 
 aux mesures expérimentales qui peuvent être effectuées. Ensuite il explique la théorie de Nyberg et al qui est en accord avec l'hypothèse du document 3. Cette théorie explique parfaitement 
 pour quelles raisons la pierre de curling avec une rotation initiale va dévier de sa trajectoire sur le pebble mais pas sur la glace lisse ni avec une pierre qui est polie. En réalité, 
 ce sont les petites goutellettes d'eau glacé présentent sur le pebble qui exercent sur les aspérités de la pierre des forces de pression de petite norme mais qui sont nombreuses et qui ont 
-alors un impact sur la pierre puisqu'elle devie.
+alors un impact sur la pierre puisqu'elle devie. 
 
 ## Problématique retenue (max 50 mots)
 On souhaite trouver les raisons pour lesquelles la pierre de curling dévie
