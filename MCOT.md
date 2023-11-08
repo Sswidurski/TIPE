@@ -3,7 +3,7 @@ Déviation de la pierre de Curling
 
 ## Motivations pour le choix du sujet
 J'ai découvert le curling aux jeux olympiques d'hiver de 2018 et
-j'ai était impressionné par les mouvements de la pierre qui est déviée sur la glace.
+j'ai été impressionné par les mouvements de la pierre qui est déviée sur la glace.
 
 ## Ancrage du sujet au thème de l'année
 Le Curling correspond bien au thème "Jeux, sports", puisque c'est
@@ -44,9 +44,9 @@ de sa trajectoire lors d'un lancé avec une vitesse de rotation initiale non nul
 ## Objectifs du TIPE (max 100 mots)
 Les objectifs de ce TIPE sont :
 - Affirmer ou infirmer les théories qui pourraient expliquer la déviation de la pierre 
-sur la glace (curl) lors d'un lancé avec une vitesse de rotation initiale.
+(curl) sur la glace lors d'un lancé avec une vitesse de rotation initiale.
 - Confirmer expérimentalement la théorie choisit sur une piste de curling.
-- Modéliser informatiquement les résultats expérimentaux et les résultats attendues
+- Modéliser informatiquement les résultats expérimentaux et les résultats attendus
 par la théorie et les comparer.
 
 
